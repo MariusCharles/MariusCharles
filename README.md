@@ -91,4 +91,3 @@ Mon parcours me permet de combiner :
 
 ---
 
-<p align="center"><i>Allier science du vivant et intelligence artificielle pour comprendre et préserver notre environnement.</i></p>
