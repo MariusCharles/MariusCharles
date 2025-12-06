@@ -79,10 +79,5 @@ My background enables me to combine:
 - 💼 LinkedIn – Marius Charles  
 - 🧑‍💻 GitHub – mariuscharles  
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariuscharles&show_icons=true&theme=graywhite" alt="Marius' GitHub stats"/>
-</p>
 
 ---
